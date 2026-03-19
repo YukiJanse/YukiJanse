@@ -10,6 +10,9 @@
 
 Check out my **pinned repositories** to see some of the projects I've worked on.
 
+### OSS Contributions
+- [Caudal](https://github.com/caudal-labs/caudal): Contributed to backend improvements and API-related enhancements in a Java-based system
+
 ## Tech Stack I've worked with and am learning
 
 ## 💻 Core Technologies
